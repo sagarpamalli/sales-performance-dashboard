@@ -1,0 +1,28 @@
+'''
+pandas – Used for loading, cleaning, and analyzing the sales data from CSV files.
+
+numpy – Used for performing numerical computations and data manipulation.
+
+plotly – Used for creating interactive and visually appealing charts and graphs.
+
+streamlit – Used to build and deploy the interactive Sales Performance Dashboard web application.
+
+matplotlib – Used for basic data visualization during exploratory data analysis (EDA).
+
+seaborn – Used for creating advanced statistical visualizations like heatmaps and correlation plots'''
+
+pandas
+numpy
+plotly
+streamlit
+matplotlib
+seaborn
+
+'''
+To install these in your computer just paste below commands in terminal or cmd
+if you downloaded requiremnts.txt then 
+pip install -r requirements.txt
+
+else manually
+pip install pandas numpy plotly streamlit matplotlib seaborn
+'''
